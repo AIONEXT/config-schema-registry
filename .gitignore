@@ -1,0 +1,7 @@
+# Go
+/bin/
+/pkg/
+*.test
+*.out
+vendor/
+.env
